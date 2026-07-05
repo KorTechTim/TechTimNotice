@@ -1,1 +1,15 @@
-#
+[
+  {
+    "title": "서버 업데이트 안내",
+    "date": "2026-07-05",
+    "body": "Palworld 서버 업데이트 기능이 개선되었습니다.",
+    "level": "info",
+    "link": "https://techtim.kr"
+  },
+  {
+    "title": "정기 점검 안내",
+    "date": "2026-07-06",
+    "body": "오후 10시에 점검이 예정되어 있습니다.",
+    "level": "warning"
+  }
+]
